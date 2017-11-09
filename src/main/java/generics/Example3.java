@@ -10,6 +10,7 @@ class NumericFns<T> {
     // Pass the constructor a reference to
     // a numeric object.
     NumericFns(T n) {
+
         num = n;
     }
 

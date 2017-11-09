@@ -9,6 +9,7 @@ class NumericFns2<T extends Number> {
     // Pass the constructor a reference to
     // a numeric object.
     NumericFns2(T n) {
+
         num = n;
     }
 
